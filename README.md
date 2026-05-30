@@ -61,8 +61,6 @@ Looking at the JavaScript honestly:
 
 ![Todo List App](./Screenshot.png)
 
-```
-
 *A functional vanilla JavaScript todo app — add tasks with Enter, check them off, delete individually or clear all at once.*
 
 ---
